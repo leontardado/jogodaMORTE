@@ -59,7 +59,7 @@
                     app:srcCompat="@drawable/check_circle_24px" />
 
                 <TextView
-                    android:id="@+id/textView5"
+                    android:id="@+id/txAcerto"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -110,7 +110,7 @@
                     app:srcCompat="@drawable/cancel_24px" />
 
                 <TextView
-                    android:id="@+id/textView6"
+                    android:id="@+id/txErro"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
