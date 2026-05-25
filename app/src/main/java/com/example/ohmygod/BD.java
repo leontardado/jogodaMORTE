@@ -26,6 +26,7 @@ public class BD extends SQLiteOpenHelper {
                         "categoria TEXT)"
         );
 
+
     }
 public void salvarPalavra(palavra p){
         SQLiteDatabase db = getWritableDatabase();
